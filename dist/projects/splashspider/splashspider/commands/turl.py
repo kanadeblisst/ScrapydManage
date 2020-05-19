@@ -1,0 +1,2 @@
+from scrapy.utils.project import get_project_settings
+from scrapy.dupefilters import BaseDupeFilter

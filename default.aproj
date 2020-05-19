@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="scrapyd1" libEmbed="true" icon="..." ui="win" output="scrapyd1.exe" CompanyName="单位名称" FileDescription="scrapyd1" LegalCopyright="Copyright (C) 单位名称 2020" ProductName="scrapyd1" InternalName="scrapyd1" FileVersion="0.0.0.12" ProductVersion="0.0.0.12" publishDir="/dist/" dstrip="false" local="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true" local="false"/>
+	<folder name="窗体文件" path="dlg" comment="目录" embed="true" local="false">
+		<file name="hostInfo.aardio" path="dlg\hostInfo.aardio" comment="dlg\hostInfo.aardio"/>
+		<file name="hostList.aardio" path="dlg\hostList.aardio" comment="dlg\hostList.aardio"/>
+		<file name="taskInfo.aardio" path="dlg\taskInfo.aardio" comment="dlg\task.aardio"/>
+		<file name="taskList.aardio" path="dlg\taskList.aardio" comment="dlg\taskList.aardio"/>
+	</folder>
+</project>

@@ -1,0 +1,1 @@
+1,local,127.0.0.1:6800,newspider,_bbs_1_www_ahbb_cc,1,0
