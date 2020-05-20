@@ -1,6 +1,7 @@
 ## ScrapydManage
 
 scrapyd的Windows管理客户端，软件只是将scrapyd的api集成到exe文件中，软件是由aardio写的，上面有源码，可以自行编译，也可以下载release已编译的exe文件。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200519234517952.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1F3ZXJ0eXVpb3AyMDE2,size_16,color_FFFFFF,t_70)
 ## 主机管理界面
 右键菜单：
